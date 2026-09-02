@@ -1,6 +1,6 @@
 # 📝 217. Contains Duplicate (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/contains-duplicate/solutions/)
+🔗 [Problem Link](https://leetcode.com/problems/contains-duplicate/solutions/3257522/one-line-code-python3-by-ganjinaveen-82hb/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
