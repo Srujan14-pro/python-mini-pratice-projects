@@ -1,6 +1,6 @@
 # 📝 217. Contains Duplicate (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/contains-duplicate/solutions/8497543/set-python-by-arorachirag-c9ha/)
+🔗 [Problem Link](https://leetcode.com/problems/contains-duplicate/solutions/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
