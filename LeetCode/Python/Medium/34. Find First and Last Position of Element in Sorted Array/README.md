@@ -1,6 +1,6 @@
 # 📝 34. Find First and Last Position of Element in Sorted Array (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/8453779/binary-search-easy-solution-python-by-sa-oo9g/)
+🔗 [Problem Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
