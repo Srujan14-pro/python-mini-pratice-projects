@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 4 / 76 (5.3%)
+- **Completed:** 5 / 76 (6.6%)
 
 ---
 
@@ -95,7 +95,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Course Schedule
 - [ ] Number of Islands
 - [ ] Longest Increasing Subsequence
-- [ ] Longest Common Subsequence
+- [x] [Longest Common Subsequence](./Python/Medium/1143. Longest Common Subsequence/)
 - [ ] 01 Knapsack
 - [ ] Edit Distance
 - [ ] Coin Change
