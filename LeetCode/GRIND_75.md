@@ -32,7 +32,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Climbing Stairs
 - [ ] Coin Change
 - [ ] Longest Increasing Subsequence
-- [x] [Longest Common Subsequence](./Python/Medium/1250. Longest Common Subsequence/)
+- [x] [Longest Common Subsequence](./Python/Medium/1143. Longest Common Subsequence/)
 - [ ] Word Break
 - [ ] Combination Sum
 - [ ] House Robber
