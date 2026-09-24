@@ -1,6 +1,6 @@
 # 📝 35. Search Insert Position (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/search-insert-position/solutions/3207854/simplest-solutionone-liner2-approachesbi-ksfh/)
+🔗 [Problem Link](https://leetcode.com/problems/search-insert-position/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
