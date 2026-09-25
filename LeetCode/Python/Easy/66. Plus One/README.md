@@ -1,6 +1,6 @@
 # 📝 66. Plus One (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/plus-one/?envType=problem-list-v2&envId=array)
+🔗 [Problem Link](https://leetcode.com/problems/plus-one/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Math
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 47 ms
+- **Memory:** 19.1 MB
 
 ---
 
