@@ -8,7 +8,7 @@
 Math, Binary Search, Newton's Method
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---
